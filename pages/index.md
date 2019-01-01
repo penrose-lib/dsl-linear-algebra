@@ -13,6 +13,7 @@ you to find the domain specific language file for the {{ site.description }}
 Domain. You can find it here:
 
 <a target="_blank" href="{{ site.baseurl }}/api.json"><button class="btn btn-primary">JSON</button></a>
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/dsl/{{ item.dsl | escape }}"><button class="btn btn-primary">Download</button></a>
 
 > Where do I go from here?
 
