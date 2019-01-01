@@ -64,9 +64,7 @@ branch: master
 
 ## Usage
 
-```bash
-$ /penrose [substance] [style] {{ page.dsl }}
-```
+...
 ```
 
 The notes that you add to this file are important for users to understand
