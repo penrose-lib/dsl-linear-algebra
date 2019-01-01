@@ -12,7 +12,7 @@ This repository serves a static API (application programming interface) for
 you to find the domain specific language file for the {{ site.description }} 
 Domain. You can find it here:
 
-<a target="_blank" href="{{ site.baseurl }}/library.json"><button class="btn btn-primary">JSON</button></a>
+<a target="_blank" href="{{ site.baseurl }}/api.json"><button class="btn btn-primary">JSON</button></a>
 
 > Where do I go from here?
 
