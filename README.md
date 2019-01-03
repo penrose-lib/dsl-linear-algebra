@@ -21,7 +21,7 @@ If you aren't familiar with the structure of a Jekyll site, here is a quick over
 The design file trios refer to substance, domain specific language (dsl) and style files 
 that can be used to generate diagrams.
 
- - [_dsl](_src): includes files that are used in "production" examples. Previous versions coincide with commits. These files get rendered into the static API, and each design has its own page for images, documentation and example usage.
+ - [_dsl](_dsl): includes files that are used in "production" examples. Previous versions coincide with commits. These files get rendered into the static API, and each design has its own page for images, documentation and example usage.
  - [_dev](_dev): Any "work in progress" files.
  - [_examples](_examples) is a collection of subfolders (a grouping of designs) from other penrose-lib repositories to exemplify the usage of this dsl.
 
