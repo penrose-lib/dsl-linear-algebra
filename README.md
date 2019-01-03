@@ -75,7 +75,7 @@ markdown, so you should feel free to write as much as you think is useful.
 
 The files in [_posts](_posts) render into the repository changelog. Please add a new
 entry with meaningful information when you add, remove, or otherwise change content.
-This isn't a perfect way to track changes, but it's a best effort
+This isn't a perfect way to track changes, but it's a best effort.
 
 
 **Special Attributes**

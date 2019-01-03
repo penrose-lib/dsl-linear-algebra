@@ -13,11 +13,11 @@ you to find the domain specific language file for the {{ site.description }}
 Domain. You can find it here:
 
 <a target="_blank" href="{{ site.baseurl }}/api.json"><button class="btn btn-primary">JSON</button></a>
-<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/dsl/{{ item.dsl | escape }}"><button class="btn btn-primary">Download</button></a>
+<a target="_blank" href="{{ site.url }}{{ site.baseurl }}/dsl/linear-algebra.dsl"><button class="btn btn-primary">Download</button></a>
 
 > Where do I go from here?
 
-This is the Penrose {{ site.description }} base. This repository
+This is the Penrose {{ site.description }} domain. This repository
 primarily serves associated dsl files, and will also provide several examples to help
 get you started. You can explore other source files (styles, dsl, and substance)
 in the <a href="https://www.github.com/penrose-lib" target="_blank">Penrose Library</a>.
